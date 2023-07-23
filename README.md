@@ -1,4 +1,4 @@
-# snk
+# YuWeiKuo
 
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/platane/platane/main.yml?label=action&style=flat-square)](https://github.com/Platane/Platane/actions/workflows/main.yml)
 [![GitHub release](https://img.shields.io/github/release/platane/snk.svg?style=flat-square)](https://github.com/platane/snk/releases/latest)
@@ -84,13 +84,7 @@ For **dark mode** support on github, use this [special syntax](https://docs.gith
 
 [platane.github.io/snk](https://platane.github.io/snk)
 
-**local**
 
-```
-npm install
-
-npm run dev:demo
-```
 
 ## Implementation
 
